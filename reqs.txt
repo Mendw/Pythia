@@ -1,0 +1,4 @@
+#El programa debe
+- Modelar y permitir la interacción con eventos globales relacionados con el control que tiene un gobierno sobre un área
+- Permitir definir nuevas características que el DM desee considerar
+- 
